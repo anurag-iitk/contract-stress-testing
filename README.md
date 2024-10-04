@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project demonstrates stress testing of a blockchain network using [Pandora's Box](https://github.com/blockchain-etl/pandoras-box), an Ethereum stress-testing tool. The testing is integrated with a Hardhat environment, ensuring the blockchain's performance and stability under heavy load.
+This project demonstrates stress testing of a blockchain network using [Pandora's Box](https://github.com/sig-0/pandoras-box), an Ethereum stress-testing tool. The testing is integrated with a Hardhat environment, ensuring the blockchain's performance and stability under heavy load.
 
 ## Installation
 
